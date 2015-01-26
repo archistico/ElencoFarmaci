@@ -1,0 +1,5 @@
+Classe H
+ATC, Principio attivo, AIC, Denominazione, Confezione, Nota 1, Nota 2, Ditta, Ricetta, PFN Prezzo al Pubblico, Prezzo SSN, Lista trasparenza, Inclusione sconto 0,6%, Applicazione pay back
+
+Classe A
+ATC, Principio attivo, AIC, Denominazione, Confezione, Ditta, Ricetta, Prezzo al Pubblico, Prezzo massimo di cessione SSN, Applicazione pay back

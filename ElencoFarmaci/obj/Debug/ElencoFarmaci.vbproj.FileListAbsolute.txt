@@ -1,0 +1,16 @@
+D:\Programmazione\00Github\ElencoFarmaci\ElencoFarmaci\bin\Debug\ElencoFarmaci.exe
+D:\Programmazione\00Github\ElencoFarmaci\ElencoFarmaci\bin\Debug\ElencoFarmaci.pdb
+D:\Programmazione\00Github\ElencoFarmaci\ElencoFarmaci\bin\Debug\ElencoFarmaci.xml
+D:\Programmazione\00Github\ElencoFarmaci\ElencoFarmaci\obj\Debug\ElencoFarmaci.Form1.resources
+D:\Programmazione\00Github\ElencoFarmaci\ElencoFarmaci\obj\Debug\ElencoFarmaci.Resources.resources
+D:\Programmazione\00Github\ElencoFarmaci\ElencoFarmaci\obj\Debug\ElencoFarmaci.vbproj.GenerateResource.Cache
+D:\Programmazione\00Github\ElencoFarmaci\ElencoFarmaci\obj\Debug\ElencoFarmaci.exe
+D:\Programmazione\00Github\ElencoFarmaci\ElencoFarmaci\obj\Debug\ElencoFarmaci.xml
+D:\Programmazione\00Github\ElencoFarmaci\ElencoFarmaci\obj\Debug\ElencoFarmaci.pdb
+D:\Programmazione\00Github\ElencoFarmaci\ElencoFarmaci\bin\Debug\TXT\Classe A in commercio test.txt
+D:\Programmazione\00Github\ElencoFarmaci\ElencoFarmaci\bin\Debug\TXT\Classe A in commercio.txt
+D:\Programmazione\00Github\ElencoFarmaci\ElencoFarmaci\bin\Debug\TXT\Classe_A_Nome_Commerciale_17-11-2014.csv
+D:\Programmazione\00Github\ElencoFarmaci\ElencoFarmaci\bin\Debug\TXT\Classe_H_Nome_Commerciale_17-11-2014.csv
+D:\Programmazione\00Github\ElencoFarmaci\ElencoFarmaci\bin\Debug\TXT\lista_trasp_fascia_c_071108.csv
+D:\Programmazione\00Github\ElencoFarmaci\ElencoFarmaci\bin\Debug\ElencoFarmaci.accdb
+D:\Programmazione\00Github\ElencoFarmaci\ElencoFarmaci\bin\Debug\ElencoFarmaci.exe.config
